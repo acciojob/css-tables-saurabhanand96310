@@ -4,9 +4,9 @@ td,th{
 	border-radius:5px;
 	padding:0.5rem;
 }
-table tbody tr :nth-child(2){
+tbody tr :nth-child(2){
 	background-color:#ffffff;
 }
-table tbody tr:nth-child(1){
+tbody tr:nth-child(1){
 	background-color:#f2f2f2;
 }
